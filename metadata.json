@@ -1,0 +1,5 @@
+{
+  "name": "shayn",
+  "description": "An automated SEO generator that processes Excel product lists using Gemini 2.5 Flash to create comprehensive metadata, keywords, and improvement tips.",
+  "requestFramePermissions": []
+}
